@@ -1,1 +1,2 @@
 # CSE-Bubble
+The project involves developing a single-cycle instruction execution unit for the CSE-BUBBLE architecture, following a step-by-step approach to determine registers, design memory, layout instructions, implement fetch and decode phases, create an ALU, handle branching, design a control finite state machine, and simulate the architecture with test benches. The project also includes implementing the Bubble Sort algorithm in MIPS code, converting it to machine code, executing it on CSE-BUBBLE, and storing the output in data memory.
